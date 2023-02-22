@@ -68,7 +68,7 @@ nav ul li{
     font-weight: bold;
     padding: O.81rem O.87rem;
     border-radius: 30px; 
-    border: 2px solid transparent;
+    border: 6px solid transparent;
     transition: 4s;
 
  }
@@ -110,12 +110,12 @@ h4{
 
 }
 .Home .social img{
-    margin-right: 2rem;
+    margin-right: 1rem;
     width: 2.5rem;
     transition: 0.4;
 }
 .Home .social img:hover{
-    transform: scale(1.6);
+    transform: scale(1.4);
 }
 .Home .container-images{
     width:45%;
@@ -127,9 +127,11 @@ h4{
 }
 .Home .container-images img{
     position: absolute ;
-    
+    width:85%;
+    height: 96%;
    
 }
+
 
    /*-------------fin de div 1---------- */
 
